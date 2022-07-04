@@ -1,0 +1,94 @@
+body{
+  font-family: 'Trispace', sans-serif;
+  margin: 0;
+  padding: o;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.orange-color{
+  color: orange;
+}
+
+.flexible-container{
+  display: flex;
+  margin-bottom: 100px;
+}
+
+.top-banner{
+  background-image: url(Images/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+.half-width{
+  width: 50%;
+  padding-left: 3%;
+}
+
+.half-width p{
+  width: 100%;
+}
+
+.allign{
+  text-align: justify;
+}
+
+.half-width img{
+  width: 80%;
+}
+
+.link-button{
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.dream-section{
+  background-image: url(Images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.second-half{
+  padding-right: 3%;
+}
+
+.exp-section{
+  background-image: url(Images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+
+#exp-header{
+  padding-left: 3%;
+}
+
+.exp-item{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+  box-shadow: 10px 10px 20px gray;
+  
+}
+
+footer p{
+  text-align: center;
+}
+
+#item-border1{
+  border-left: 5px solid rgb(240, 63, 31);
+}
+
+#item-border2{
+  border-left: 5px solid blue;
+}
+
+h2{
+  font-size: 40px;
+}
